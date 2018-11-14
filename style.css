@@ -1,0 +1,78 @@
+
+#search form button a{
+	text-decoration: none;
+	font-size: 14px;
+	color: #fff;
+} 	
+#search_btn{
+	width: 10%;
+	height: 35px;
+	background: #808080;
+	color: #fff;
+	font-weight: bold;
+	border-width: 0px;
+	margin-left: -10px;
+	border-radius: 3px;
+}
+#search1_btn{
+	width: 17%;
+	height: 35px;
+	background: #808080;
+	color: #fff;
+	font-weight: bold;
+	border-width: 0px;
+	margin-left: -10px;
+	border-radius: 3px;
+}
+#cart_btn{
+	width: 17%;
+	height: 35px;
+	background: #808080;
+	color: #fff;
+	font-weight: bold;
+	border-width: 0px;
+	border-radius: 3px;
+}
+#future img{
+	height: 70px;
+	width: 100px;
+	border-radius: 50px;
+	margin-top: 0px;
+	padding-bottom: 0px;
+
+}
+.dropbtn {
+    background-color: rgba(0, 128, 0, 0.0);
+    color: white;
+    padding: 24px;
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #000;
+    min-width: 128px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 10px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
